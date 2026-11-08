@@ -1,0 +1,28 @@
+{
+  "title": "1.000 Rechnungen. Unzählige Ideen.",
+  "version": "01 · Erstentwurf",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "colors": { "ink": "#141414", "paper": "#f4f1e9", "accent": "#d9ff63" },
+  "timing": { "intro": 3, "founded": 3, "network": 3, "milestone": 4, "thanks": 2, "featured": 1.5, "quick": 0.5, "outro": 4.5 },
+  "copy": {
+    "intro": ["Gute Ideen.", "Große", "Wirkung."],
+    "foundedNumber": "2019",
+    "founded": ["Eine Idee", "wird Agentur."],
+    "networkNumber": "70+",
+    "network": ["Expert:innen.", "Ein Netzwerk."],
+    "milestoneNumber": "1.000.",
+    "milestone": "Rechnung!",
+    "milestoneNote": "Unzählige gemeinsame Ideen.",
+    "thanks": ["Danke", "an euch."],
+    "outro": ["Auf die", "nächsten", "1.000."],
+    "website": "cococom.at"
+  },
+  "audio": "assets/audio/cococom-pulse.m4a",
+  "sources": [
+    { "claim": "Gründung im Jänner 2019", "url": "https://cococom.at/agentur/" },
+    { "claim": "Netzwerk aus über 70 Expert:innen", "url": "https://cococom.at/contact-us/" },
+    { "claim": "1.000. Rechnung", "url": null, "note": "Meilenstein laut Kundenbriefing; keine erfundene Projektzahl." }
+  ]
+}

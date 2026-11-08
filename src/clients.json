@@ -1,0 +1,410 @@
+[
+  {
+    "id": "01-abbvie",
+    "order": 1,
+    "name": "AbbVie",
+    "source": "Cococom_Clients/01_abbvie.png",
+    "asset": "assets/clients/01-abbvie.png",
+    "group": "featured"
+  },
+  {
+    "id": "02-asp",
+    "order": 2,
+    "name": "ASP",
+    "source": "Cococom_Clients/02_ASP-1C.png",
+    "asset": "assets/clients/02-asp.png",
+    "group": "featured"
+  },
+  {
+    "id": "03-buchegger",
+    "order": 3,
+    "name": "Buchegger",
+    "source": "Cococom_Clients/03_buchegger-1C.png",
+    "asset": "assets/clients/03-buchegger.png",
+    "group": "featured"
+  },
+  {
+    "id": "04-bildungsdirektion",
+    "order": 4,
+    "name": "Bildungsdirektion",
+    "source": "Cococom_Clients/04_bildungsdirektion_Portal_logo.png",
+    "asset": "assets/clients/04-bildungsdirektion.png",
+    "group": "featured"
+  },
+  {
+    "id": "05-cmb",
+    "order": 5,
+    "name": "CMB",
+    "source": "Cococom_Clients/05_CMB-Logo.png",
+    "asset": "assets/clients/05-cmb.png",
+    "group": "featured"
+  },
+  {
+    "id": "06-cooper-health",
+    "order": 6,
+    "name": "Cooper Health",
+    "source": "Cococom_Clients/06_Cooper-Health-Logo.png",
+    "asset": "assets/clients/06-cooper-health.png",
+    "group": "featured"
+  },
+  {
+    "id": "07-duftkueche",
+    "order": 7,
+    "name": "Duftküche",
+    "source": "Cococom_Clients/07_Duftku╠êche.png",
+    "asset": "assets/clients/07-duftkueche.png",
+    "group": "featured"
+  },
+  {
+    "id": "08-enovis",
+    "order": 8,
+    "name": "Enovis",
+    "source": "Cococom_Clients/08_Enovis-Logo.png",
+    "asset": "assets/clients/08-enovis.png",
+    "group": "featured"
+  },
+  {
+    "id": "09-epignosit",
+    "order": 9,
+    "name": "epignosiT",
+    "source": "Cococom_Clients/09_epignosiT.png",
+    "asset": "assets/clients/09-epignosit.png",
+    "group": "featured"
+  },
+  {
+    "id": "10-erwo-pharma",
+    "order": 10,
+    "name": "ERWO Pharma",
+    "source": "Cococom_Clients/10_ERWO-Pharma.png",
+    "asset": "assets/clients/10-erwo-pharma.png",
+    "group": "featured"
+  },
+  {
+    "id": "11-fhwien",
+    "order": 11,
+    "name": "FHWien",
+    "source": "Cococom_Clients/11_fh-wien-1C.png",
+    "asset": "assets/clients/11-fhwien.png",
+    "group": "featured"
+  },
+  {
+    "id": "12-forme",
+    "order": 12,
+    "name": "FORME",
+    "source": "Cococom_Clients/12_FORME_Logo.png",
+    "asset": "assets/clients/12-forme.png",
+    "group": "featured"
+  },
+  {
+    "id": "13-gaw",
+    "order": 13,
+    "name": "GAW",
+    "source": "Cococom_Clients/13_GAW_Logo.png",
+    "asset": "assets/clients/13-gaw.png",
+    "group": "featured"
+  },
+  {
+    "id": "14-glam",
+    "order": 14,
+    "name": "GLAM",
+    "source": "Cococom_Clients/14_Glam_Logo_NEU.png",
+    "asset": "assets/clients/14-glam.png",
+    "group": "featured"
+  },
+  {
+    "id": "15-glatzer",
+    "order": 15,
+    "name": "Glatzer",
+    "source": "Cococom_Clients/15_glatzer-1C.png",
+    "asset": "assets/clients/15-glatzer.png",
+    "group": "featured"
+  },
+  {
+    "id": "16-heilmassage-nina-blatner",
+    "order": 16,
+    "name": "Heilmassage Nina Blatner",
+    "source": "Cococom_Clients/16_Heilmassage-Nina-Blatner-Logo.png",
+    "asset": "assets/clients/16-heilmassage-nina-blatner.png",
+    "group": "featured"
+  },
+  {
+    "id": "17-immocare",
+    "order": 17,
+    "name": "immocare",
+    "source": "Cococom_Clients/17_immoc-care-1C.png",
+    "asset": "assets/clients/17-immocare.png",
+    "group": "featured"
+  },
+  {
+    "id": "18-maxit",
+    "order": 18,
+    "name": "MAXit",
+    "source": "Cococom_Clients/18_MAXit.png",
+    "asset": "assets/clients/18-maxit.png",
+    "group": "featured"
+  },
+  {
+    "id": "19-ordination-strasshof",
+    "order": 19,
+    "name": "Ordination Strasshof",
+    "source": "Cococom_Clients/19_ordination-strasshof-1C.png",
+    "asset": "assets/clients/19-ordination-strasshof.png",
+    "group": "featured"
+  },
+  {
+    "id": "20-taubenschuss",
+    "order": 20,
+    "name": "Taubenschuss",
+    "source": "Cococom_Clients/20_Taubenschuss.png",
+    "asset": "assets/clients/20-taubenschuss.png",
+    "group": "featured"
+  },
+  {
+    "id": "21-tmbp",
+    "order": 21,
+    "name": "TMBP",
+    "source": "Cococom_Clients/21_TMPB.png",
+    "asset": "assets/clients/21-tmbp.png",
+    "group": "featured"
+  },
+  {
+    "id": "22-verein-schule-kultur",
+    "order": 22,
+    "name": "Verein Schule & Kultur",
+    "source": "Cococom_Clients/22_Verein-Schule-Kultur.png",
+    "asset": "assets/clients/22-verein-schule-kultur.png",
+    "group": "featured"
+  },
+  {
+    "id": "23-vienna-awards",
+    "order": 23,
+    "name": "Vienna Awards",
+    "source": "Cococom_Clients/23_vienna-awards-1C.png",
+    "asset": "assets/clients/23-vienna-awards.png",
+    "group": "featured"
+  },
+  {
+    "id": "24-art-aesthetic-institute",
+    "order": 24,
+    "name": "Art Aesthetic Institute",
+    "source": "Cococom_Clients/L_23_Art-Aesthetic-Institute-Logo.png",
+    "asset": "assets/clients/24-art-aesthetic-institute.png",
+    "group": "quick"
+  },
+  {
+    "id": "25-aop",
+    "order": 25,
+    "name": "AOP",
+    "source": "Cococom_Clients/L_24_AOP-1C.png",
+    "asset": "assets/clients/25-aop.png",
+    "group": "quick"
+  },
+  {
+    "id": "26-awa",
+    "order": 26,
+    "name": "awa",
+    "source": "Cococom_Clients/L_25_awa-logo.png",
+    "asset": "assets/clients/26-awa.png",
+    "group": "quick"
+  },
+  {
+    "id": "27-babor",
+    "order": 27,
+    "name": "BABOR",
+    "source": "Cococom_Clients/L_26_babor-1C.png",
+    "asset": "assets/clients/27-babor.png",
+    "group": "quick"
+  },
+  {
+    "id": "28-bettina-bogner",
+    "order": 28,
+    "name": "Bettina Bogner",
+    "source": "Cococom_Clients/L_27_Bettina-Bogner.png",
+    "asset": "assets/clients/28-bettina-bogner.png",
+    "group": "quick"
+  },
+  {
+    "id": "29-b-dna",
+    "order": 29,
+    "name": "B-DNA",
+    "source": "Cococom_Clients/L_28_B-DNA_Logo_RZ_mitHelix.jpg",
+    "asset": "assets/clients/29-b-dna.png",
+    "group": "quick"
+  },
+  {
+    "id": "30-bundy-bundy",
+    "order": 30,
+    "name": "BUNDY BUNDY",
+    "source": "Cococom_Clients/L_29_bundy-bundy-1C.png",
+    "asset": "assets/clients/30-bundy-bundy.png",
+    "group": "quick"
+  },
+  {
+    "id": "31-bs-partner",
+    "order": 31,
+    "name": "BS Partner",
+    "source": "Cococom_Clients/L_30_BS_Partner_Logo.png",
+    "asset": "assets/clients/31-bs-partner.png",
+    "group": "quick"
+  },
+  {
+    "id": "32-dr-schreibers",
+    "order": 32,
+    "name": "Dr. Schreibers",
+    "source": "Cococom_Clients/L_31_Dr.Schreibers-Logo.png",
+    "asset": "assets/clients/32-dr-schreibers.png",
+    "group": "quick"
+  },
+  {
+    "id": "33-fh-technikum-wien",
+    "order": 33,
+    "name": "FH Technikum Wien",
+    "source": "Cococom_Clients/L_32_fh-technikum-1C.png",
+    "asset": "assets/clients/33-fh-technikum-wien.png",
+    "group": "quick"
+  },
+  {
+    "id": "34-food4skin",
+    "order": 34,
+    "name": "food4skin",
+    "source": "Cococom_Clients/L_33_food4skin.png",
+    "asset": "assets/clients/34-food4skin.png",
+    "group": "quick"
+  },
+  {
+    "id": "35-hh",
+    "order": 35,
+    "name": "HH",
+    "source": "Cococom_Clients/L_34_Logo-HH.png",
+    "asset": "assets/clients/35-hh.png",
+    "group": "quick"
+  },
+  {
+    "id": "36-iconic",
+    "order": 36,
+    "name": "ICONIC",
+    "source": "Cococom_Clients/L_35_ICONIC_Logo.png",
+    "asset": "assets/clients/36-iconic.png",
+    "group": "quick"
+  },
+  {
+    "id": "37-invisio",
+    "order": 37,
+    "name": "invisio",
+    "source": "Cococom_Clients/L_36_invisio_consult_logo_1c.png",
+    "asset": "assets/clients/37-invisio.png",
+    "group": "quick"
+  },
+  {
+    "id": "38-dr-kathrin-faerber",
+    "order": 38,
+    "name": "Dr. Kathrin Färber",
+    "source": "Cococom_Clients/L_37_Dr.Kathrin-Faerber-Logo.png",
+    "asset": "assets/clients/38-dr-kathrin-faerber.png",
+    "group": "quick"
+  },
+  {
+    "id": "39-locci",
+    "order": 39,
+    "name": "LOCCI",
+    "source": "Cococom_Clients/L_38_LOCCI_Logo_SW.jpg",
+    "asset": "assets/clients/39-locci.png",
+    "group": "quick"
+  },
+  {
+    "id": "40-mylan",
+    "order": 40,
+    "name": "mylan",
+    "source": "Cococom_Clients/L_39_mylan-1C.png",
+    "asset": "assets/clients/40-mylan.png",
+    "group": "quick"
+  },
+  {
+    "id": "41-petite-marie-vienna",
+    "order": 41,
+    "name": "Petite Marie Vienna",
+    "source": "Cococom_Clients/L_40_Petite-Marie-Vienna.png",
+    "asset": "assets/clients/41-petite-marie-vienna.png",
+    "group": "quick"
+  },
+  {
+    "id": "42-riedel",
+    "order": 42,
+    "name": "Riedel",
+    "source": "Cococom_Clients/L_41_Riedel-e1750251138690.png",
+    "asset": "assets/clients/42-riedel.png",
+    "group": "quick"
+  },
+  {
+    "id": "43-sakh",
+    "order": 43,
+    "name": "SAKH",
+    "source": "Cococom_Clients/L_42_SAKH_Logo.png",
+    "asset": "assets/clients/43-sakh.png",
+    "group": "quick"
+  },
+  {
+    "id": "44-salon-wunderbar",
+    "order": 44,
+    "name": "Salon Wunderbar",
+    "source": "Cococom_Clients/L_43_SalonWunderbar.png",
+    "asset": "assets/clients/44-salon-wunderbar.png",
+    "group": "quick"
+  },
+  {
+    "id": "45-sanova",
+    "order": 45,
+    "name": "sanova",
+    "source": "Cococom_Clients/L_44_sanova-1C.png",
+    "asset": "assets/clients/45-sanova.png",
+    "group": "quick"
+  },
+  {
+    "id": "46-terraalp",
+    "order": 46,
+    "name": "TerraAlp",
+    "source": "Cococom_Clients/L_45_TerraAlp_Logo_sw.png",
+    "asset": "assets/clients/46-terraalp.png",
+    "group": "quick"
+  },
+  {
+    "id": "47-loan-tran",
+    "order": 47,
+    "name": "Loan Tran",
+    "source": "Cococom_Clients/L_46_LoanTran-1C.png",
+    "asset": "assets/clients/47-loan-tran.png",
+    "group": "quick"
+  },
+  {
+    "id": "48-sonja-kufner",
+    "order": 48,
+    "name": "Sonja Kufner",
+    "source": "Cococom_Clients/L_47_Sonja-Kufner-Logo.png",
+    "asset": "assets/clients/48-sonja-kufner.png",
+    "group": "quick"
+  },
+  {
+    "id": "49-tricky-mind",
+    "order": 49,
+    "name": "Tricky Mind",
+    "source": "Cococom_Clients/L_48_Tricky-Mind-logo.png",
+    "asset": "assets/clients/49-tricky-mind.png",
+    "group": "quick"
+  },
+  {
+    "id": "50-lions-youth",
+    "order": 50,
+    "name": "Lions Youth",
+    "source": "Cococom_Clients/L_49_Lions_Youth.png",
+    "asset": "assets/clients/50-lions-youth.png",
+    "group": "quick"
+  },
+  {
+    "id": "51-vital-fabrik",
+    "order": 51,
+    "name": "VITAL Fabrik",
+    "source": "Cococom_Clients/L_50_VITAL-Fabrik-Logo.png",
+    "asset": "assets/clients/51-vital-fabrik.png",
+    "group": "quick"
+  }
+]
