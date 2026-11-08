@@ -18,38 +18,38 @@
     </aside>
     <div class="workspace">
       <header class="topbar">
-        <div><div class="eyebrow">COCOCOM / SOCIAL FILM</div><h1>Ein guter Grund zu feiern<span>.</span></h1></div>
-        <div class="top-actions"><span class="draft-badge"><i></i> ENTWURF 01</span><button class="button dark" id="download-config">Projektstand sichern <span>↗</span></button></div>
+        <div><div class="eyebrow">COCOCOM / SOCIAL FILM</div><h1>Momente müssen gefeiert werden<span>.</span></h1></div>
+        <div class="top-actions"><span class="draft-badge"><i></i> ENTWURF 02</span><button class="button dark" id="download-config">Projektstand sichern <span>↗</span></button></div>
       </header>
       <main class="main-grid">
         <section class="preview-panel" aria-label="Videovorschau">
           <div class="preview-heading"><span>REEL / 9:16</span><button id="safe-toggle" aria-pressed="false" title="Sicherheitszonen für Instagram anzeigen">Sicherheitszonen</button></div>
           <div class="stage">
             <div class="canvas-wrap"><canvas id="film" width="540" height="960" aria-label="COCOCOM Videovorschau"></canvas><div class="safe-overlay" id="safe-overlay" hidden><span>OBEN FREI HALTEN</span><span>INSTAGRAM-BEDIENUNG</span></div><div id="loading">Der Film wird vorbereitet<span>Schrift, Logos und Bildwelten werden geladen.</span></div></div>
-            <span class="stage-caption">1.000 RECHNUNGEN.<br>UNZÄHLIGE IDEEN.</span>
+            <span class="stage-caption">MOMENTE MÜSSEN<br>GEFEIERT WERDEN.</span>
           </div>
-          <div class="transport"><button id="play" class="play-button" aria-label="Video abspielen" disabled>▶</button><button id="restart" class="icon-button" aria-label="Zum Anfang">↺</button><output id="time">00:00 / 01:08</output><input id="seek" type="range" min="0" max="2039" value="0" aria-label="Videoposition"><button id="sound" class="sound-button" aria-pressed="false">Ton aus</button><button id="fullscreen" class="icon-button" aria-label="Video im Vollbild">⛶</button></div>
+          <div class="transport"><button id="play" class="play-button" aria-label="Video abspielen" disabled>▶</button><button id="restart" class="icon-button" aria-label="Zum Anfang">↺</button><output id="time">00:00 / 01:36</output><input id="seek" type="range" min="0" max="2879" value="0" aria-label="Videoposition"><button id="sound" class="sound-button" aria-pressed="false">Ton aus</button><button id="fullscreen" class="icon-button" aria-label="Video im Vollbild">⛶</button></div>
         </section>
         <section class="inspector" aria-label="Projekt bearbeiten">
-          <div class="project-heading"><div class="eyebrow">DER MEILENSTEIN</div><h2>1.000 Rechnungen.<br>Unzählige Ideen.</h2><p>Ein Danke an alle, die seit 2019 Teil der Geschichte sind.</p><div class="specs"><span>1080 × 1920</span><span>30 FPS</span><span id="duration-spec">68 SEK.</span></div></div>
-          <div class="tabs" role="tablist" aria-label="Projektbereiche"><button role="tab" id="tab-scenes" aria-selected="true" aria-controls="panel-scenes">Ablauf <span>07</span></button><button role="tab" id="tab-clients" aria-selected="false" aria-controls="panel-clients">Kunden <span>51</span></button><button role="tab" id="tab-edit" aria-selected="false" aria-controls="panel-edit">Bearbeiten</button></div>
-          <div class="tab-panel" id="panel-scenes" role="tabpanel" aria-labelledby="tab-scenes"><div class="section-intro"><span>DIE GESCHICHTE IN 7 KAPITELN</span><span>↙ Klicken zum Ansehen</span></div><div id="chapter-list"></div><div class="note"><span>↗</span><p>23 Logos mit längerer Standzeit. Danach 28 schnelle Wechsel – genau in der gelieferten Reihenfolge.</p></div></div>
+          <div class="project-heading"><div class="eyebrow">DER MEILENSTEIN</div><h2>Die 1.000. Rechnung.<br>Ein Grund zu feiern.</h2><p>Ein Danke an unsere Kundinnen und alle, die seit 2019 Teil der Geschichte sind.</p><div class="specs"><span>1080 × 1920</span><span>30 FPS</span><span id="duration-spec">96 SEK.</span></div></div>
+          <div class="tabs" role="tablist" aria-label="Projektbereiche"><button role="tab" id="tab-scenes" aria-selected="true" aria-controls="panel-scenes">Ablauf <span>04</span></button><button role="tab" id="tab-clients" aria-selected="false" aria-controls="panel-clients">Kunden <span>52</span></button><button role="tab" id="tab-edit" aria-selected="false" aria-controls="panel-edit">Bearbeiten</button></div>
+          <div class="tab-panel" id="panel-scenes" role="tabpanel" aria-labelledby="tab-scenes"><div class="section-intro"><span>DIE GESCHICHTE IN 4 ABSCHNITTEN</span><span>↙ Klicken zum Ansehen</span></div><div id="chapter-list"></div><div class="note"><span>↗</span><p>23 Hauptkunden mit Projektbildern. Danach 29 schnelle Logo-Wechsel auf Farbflächen.</p></div></div>
           <div class="tab-panel" id="panel-clients" role="tabpanel" aria-labelledby="tab-clients" hidden><div class="section-intro"><span>LOGOS IN ORIGINALREIHENFOLGE</span></div><input class="search" id="client-search" placeholder="Kunden suchen …" aria-label="Kunden suchen"><div class="client-list" id="client-list"></div></div>
           <div class="tab-panel edit-panel" id="panel-edit" role="tabpanel" aria-labelledby="tab-edit" hidden>
             <div class="section-intro"><span>TEXT, RHYTHMUS & FARBE</span></div>
             <label>Intro · Zeile 1<input id="edit-intro" maxlength="20"></label>
-            <label>Meilenstein<input id="edit-milestone" maxlength="20"></label>
-            <label>Begleittext<input id="edit-note" maxlength="42"></label>
+            <label>Meilenstein · Zeile 2<input id="edit-milestone" maxlength="20"></label>
+            <label>Dank · Zeile 1<input id="edit-note" maxlength="42"></label>
             <div class="field-row"><label>Wichtige Logos (Sek.)<input id="edit-featured" type="number" min="0.8" max="6" step="0.1"></label><label>Schnelle Logos (Sek.)<input id="edit-quick" type="number" min="0.25" max="3" step="0.05"></label></div>
             <label class="color-label">Akzentfarbe <input id="edit-accent" type="color"></label>
-            <button class="button dark wide" id="apply">Änderungen anwenden <span>↗</span></button><button class="text-button" id="reset">Erstentwurf wiederherstellen</button>
+            <button class="button dark wide" id="apply">Änderungen anwenden <span>↗</span></button><button class="text-button" id="reset">Briefing-Stand wiederherstellen</button>
             <p class="edit-hint">Änderungen bleiben in diesem Browser. „Projektstand sichern“ speichert project.json für VS Code und den nächsten Export.</p>
             <label class="import-label">Gespeicherten Stand laden<input type="file" id="import-config" accept="application/json,.json"></label>
           </div>
           <div class="inspector-footer"><span class="status-dot"></span><span id="status" role="status">Alles lokal. Bereit für die Abstimmung.</span></div>
         </section>
       </main>
-      <section class="timeline-panel" aria-label="Filmablauf"><div class="timeline-header"><span>DER GANZE FILM</span><span id="scene-label">01 / Gute Ideen</span><span>↔ JEDER MOMENT BEARBEITBAR</span></div><div id="timeline" class="timeline"></div><div class="timeline-ruler"><span>00:00</span><span>00:15</span><span>00:30</span><span>00:45</span><span id="timeline-end">01:08</span></div></section>
+      <section class="timeline-panel" aria-label="Filmablauf"><div class="timeline-header"><span>DER GANZE FILM</span><span id="scene-label">01 / Momente feiern</span><span>↔ JEDER MOMENT BEARBEITBAR</span></div><div id="timeline" class="timeline"></div><div class="timeline-ruler"><span>00:00</span><span>00:24</span><span>00:48</span><span>01:12</span><span id="timeline-end">01:36</span></div></section>
       <footer class="page-footer"><span>COCOCOM · MILESTONE FILM 2026</span><span>Konzipiert für Instagram. Gemacht zum Weiterdenken.</span><a href="https://cococom.at" target="_blank" rel="noreferrer">cococom.at ↗</a></footer>
     </div>
   </div>

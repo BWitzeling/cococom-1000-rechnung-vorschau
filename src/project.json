@@ -1,28 +1,40 @@
 {
-  "title": "1.000 Rechnungen. Unzählige Ideen.",
-  "version": "01 · Erstentwurf",
+  "title": "Momente müssen gefeiert werden",
+  "version": "02 · Kundenbriefing vom 8. November 2026",
   "fps": 30,
   "width": 1080,
   "height": 1920,
-  "colors": { "ink": "#141414", "paper": "#f4f1e9", "accent": "#d9ff63" },
-  "timing": { "intro": 3, "founded": 3, "network": 3, "milestone": 4, "thanks": 2, "featured": 1.5, "quick": 0.5, "outro": 4.5 },
+  "colors": { "ink": "#141414", "paper": "#ffffff", "accent": "#d9ff63", "complement": "#26009c" },
+  "timing": {
+    "intro": 5.4, "impact": 2.7, "founded": 2.7, "network": 2.7,
+    "projects": 2.7, "region": 2.7, "milestone": 5.4, "thanks": 2.7,
+    "featuredLead": 2, "featured": 1.5, "featuredThanks": 3,
+    "quickLead": 1.5, "quick": 0.5, "scratch": 0.6,
+    "outroQuestion": 1.6, "outroAnswer": 1.6, "motto": 3.2,
+    "outroPromise": 1.8, "outroLogo": 1.8
+  },
   "copy": {
-    "intro": ["Gute Ideen.", "Große", "Wirkung."],
-    "foundedNumber": "2019",
-    "founded": ["Eine Idee", "wird Agentur."],
-    "networkNumber": "70+",
-    "network": ["Expert:innen.", "Ein Netzwerk."],
-    "milestoneNumber": "1.000.",
-    "milestone": "Rechnung!",
-    "milestoneNote": "Unzählige gemeinsame Ideen.",
-    "thanks": ["Danke", "an euch."],
-    "outro": ["Auf die", "nächsten", "1.000."],
+    "intro": ["Momente müssen", "gefeiert werden."],
+    "impact": ["Kleine Schritte.", "Große Wirkung."],
+    "founded": ["2019.", "Aus einer Idee", "wird eine Agentur."],
+    "network": ["Kleines Kernteam.", "Großes Netzwerk."],
+    "projects": ["13.989 Projekte", "in 15 Kerndisziplinen."],
+    "region": ["In Österreich,", "Deutschland und", "der Schweiz."],
+    "milestone": ["Und jetzt die", "1.000. Rechnung."],
+    "thanks": ["Danke an", "unsere Kundinnen."],
+    "featuredLead": "Insbesondere an:",
+    "featuredThanks": ["Thank you, Danke", "und Merci vielmals", "für die tolle Zusammenarbeit."],
+    "quickLead": "Und danke auch an:",
+    "outroQuestion": "Und jetzt?",
+    "outroAnswer": "Na, was wohl …",
+    "motto": ["Be creative.", "Be flexible.", "Be fast."],
+    "outroPromise": ["Und auf die nächsten", "1.000 Rechnungen."],
     "website": "cococom.at"
   },
   "audio": "assets/audio/cococom-pulse.m4a",
   "sources": [
     { "claim": "Gründung im Jänner 2019", "url": "https://cococom.at/agentur/" },
-    { "claim": "Netzwerk aus über 70 Expert:innen", "url": "https://cococom.at/contact-us/" },
-    { "claim": "1.000. Rechnung", "url": null, "note": "Meilenstein laut Kundenbriefing; keine erfundene Projektzahl." }
+    { "claim": "13.989 Projekte in 15 Kerndisziplinen; Tätigkeit in Österreich, Deutschland und der Schweiz", "url": null, "note": "Angaben der Agenturinhaberin Cornelia Althuber im Kundenbriefing vom 8. November 2026 (Cococom Post_input.pdf). Die Zahl 13.989 wird auf ausdrückliche Vorgabe des Projektverantwortlichen für diesen Film als zutreffend angenommen." },
+    { "claim": "1.000. Rechnung und gewünschte Dramaturgie", "url": null, "note": "Kundenbriefing von Cornelia Althuber vom 8. November 2026 (Cococom Post_input.pdf)." }
   ]
 }

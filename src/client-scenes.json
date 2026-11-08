@@ -1,53 +1,284 @@
 {
-  "01-abbvie": { "category": "health", "label": "Gesundheit", "offset": 0.0 },
-  "02-asp": { "category": "business", "label": "Begegnungen", "offset": 0.2 },
-  "03-buchegger": { "category": "business", "label": "Neue Perspektiven", "offset": 1.6 },
-  "04-bildungsdirektion": { "category": "education", "label": "Bildung & Wissen", "offset": 0.0 },
-  "05-cmb": { "category": "business", "label": "Kreativität", "offset": 2.3 },
-  "06-cooper-health": { "category": "health", "label": "Wohlbefinden", "offset": 0.6 },
-  "07-duftkueche": { "category": "beauty", "label": "Für die Sinne", "offset": 1.2 },
-  "08-enovis": { "category": "health", "label": "Gesundheit", "offset": 1.5 },
-  "09-epignosit": { "category": "business", "label": "Neue Perspektiven", "offset": 0.7 },
-  "10-erwo-pharma": { "category": "health", "label": "Wohlbefinden", "offset": 2.2 },
-  "11-fhwien": { "category": "education", "label": "Bildung & Wissen", "offset": 1.2 },
-  "12-forme": { "category": "beauty", "label": "Schöne Momente", "offset": 0.3 },
-  "13-gaw": { "category": "education", "label": "Neue Perspektiven", "offset": 2.1 },
-  "14-glam": { "category": "business", "label": "Kreativität", "offset": 1.1 },
-  "15-glatzer": { "category": "wine", "label": "Genuss", "offset": 0.0 },
-  "16-heilmassage-nina-blatner": { "category": "health", "label": "Wohlbefinden", "offset": 0.9 },
-  "17-immocare": { "category": "business", "label": "Lebensräume", "offset": 2.0 },
-  "18-maxit": { "category": "business", "label": "Neue Perspektiven", "offset": 0.4 },
-  "19-ordination-strasshof": { "category": "health", "label": "Gesundheit", "offset": 1.8 },
-  "20-taubenschuss": { "category": "wine", "label": "Genuss", "offset": 1.4 },
-  "21-tmbp": { "category": "business", "label": "Neue Perspektiven", "offset": 1.4 },
-  "22-verein-schule-kultur": { "category": "education", "label": "Bildung & Kultur", "offset": 0.5 },
-  "23-vienna-awards": { "category": "fashion", "label": "Besondere Momente", "offset": 0.0 },
-  "24-art-aesthetic-institute": { "category": "beauty", "label": "Schöne Momente", "offset": 1.8 },
-  "25-aop": { "category": "health", "label": "Gesundheit", "offset": 0.2 },
-  "26-awa": { "category": "fashion", "label": "Besondere Momente", "offset": 1.0 },
-  "27-babor": { "category": "beauty", "label": "Für die Sinne", "offset": 0.0 },
-  "28-bettina-bogner": { "category": "business", "label": "Begegnungen", "offset": 2.5 },
-  "29-b-dna": { "category": "business", "label": "Kreativität", "offset": 0.0 },
-  "30-bundy-bundy": { "category": "beauty", "label": "Schöne Momente", "offset": 2.4 },
-  "31-bs-partner": { "category": "business", "label": "Begegnungen", "offset": 1.8 },
-  "32-dr-schreibers": { "category": "education", "label": "Bildung & Wissen", "offset": 1.6 },
-  "33-fh-technikum-wien": { "category": "education", "label": "Neue Perspektiven", "offset": 2.5 },
-  "34-food4skin": { "category": "beauty", "label": "Wohlbefinden", "offset": 0.7 },
-  "35-hh": { "category": "business", "label": "Kreativität", "offset": 0.9 },
-  "36-iconic": { "category": "business", "label": "Neue Perspektiven", "offset": 2.2 },
-  "37-invisio": { "category": "business", "label": "Begegnungen", "offset": 0.3 },
-  "38-dr-kathrin-faerber": { "category": "beauty", "label": "Schöne Momente", "offset": 1.5 },
-  "39-locci": { "category": "business", "label": "Neue Perspektiven", "offset": 1.3 },
-  "40-mylan": { "category": "health", "label": "Gesundheit", "offset": 2.5 },
-  "41-petite-marie-vienna": { "category": "fashion", "label": "Besondere Momente", "offset": 2.0 },
-  "42-riedel": { "category": "wine", "label": "Genuss", "offset": 2.5 },
-  "43-sakh": { "category": "health", "label": "Gesundheit", "offset": 1.1 },
-  "44-salon-wunderbar": { "category": "business", "label": "Kreativität", "offset": 2.4 },
-  "45-sanova": { "category": "health", "label": "Wohlbefinden", "offset": 0.4 },
-  "46-terraalp": { "category": "nature", "label": "Neue Perspektiven", "offset": 0.8 },
-  "47-loan-tran": { "category": "business", "label": "Kreativität", "offset": 1.7 },
-  "48-sonja-kufner": { "category": "health", "label": "Wohlbefinden", "offset": 2.0 },
-  "49-tricky-mind": { "category": "education", "label": "Neue Perspektiven", "offset": 0.9 },
-  "50-lions-youth": { "category": "education", "label": "Begegnungen", "offset": 1.9 },
-  "51-vital-fabrik": { "category": "health", "label": "Wohlbefinden", "offset": 1.4 }
+  "01-abbvie": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 0
+  },
+  "02-asp": {
+    "category": "business",
+    "label": "Begegnungen",
+    "offset": 0.2,
+    "image": "assets/projects/02-asp.jpg"
+  },
+  "03-buchegger": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 1.6,
+    "image": "assets/projects/03-buchegger.jpg"
+  },
+  "04-bildungsdirektion": {
+    "category": "education",
+    "label": "Bildung & Wissen",
+    "offset": 0,
+    "image": "assets/projects/04-bildungsdirektion.jpg"
+  },
+  "05-cmb": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 2.3,
+    "image": "assets/projects/05-cmb.jpg"
+  },
+  "06-cooper-health": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 0.6,
+    "image": "assets/projects/06-cooper-health.jpg"
+  },
+  "07-duftkueche": {
+    "category": "beauty",
+    "label": "Für die Sinne",
+    "offset": 1.2,
+    "image": "assets/projects/07-duftkueche.jpg"
+  },
+  "08-enovis": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 1.5,
+    "image": "assets/projects/08-enovis.jpg"
+  },
+  "09-epignosit": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 0.7,
+    "image": "assets/projects/09-epignosit.jpg"
+  },
+  "10-erwo-pharma": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 2.2,
+    "image": "assets/projects/10-erwo-pharma.jpg"
+  },
+  "11-fhwien": {
+    "category": "education",
+    "label": "Bildung & Wissen",
+    "offset": 1.2,
+    "image": "assets/projects/11-fhwien.jpg"
+  },
+  "12-forme": {
+    "category": "beauty",
+    "label": "Schöne Momente",
+    "offset": 0.3,
+    "image": "assets/projects/12-forme.jpg"
+  },
+  "13-gaw": {
+    "category": "education",
+    "label": "Neue Perspektiven",
+    "offset": 2.1,
+    "image": "assets/projects/13-gaw.jpg"
+  },
+  "14-glam": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 1.1,
+    "image": "assets/projects/14-glam.jpg"
+  },
+  "15-glatzer": {
+    "category": "wine",
+    "label": "Genuss",
+    "offset": 0,
+    "image": "assets/projects/15-glatzer.jpg"
+  },
+  "16-heilmassage-nina-blatner": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 0.9,
+    "image": "assets/projects/16-heilmassage-nina-blatner.jpg"
+  },
+  "17-immocare": {
+    "category": "business",
+    "label": "Lebensräume",
+    "offset": 2,
+    "image": "assets/projects/17-immocare.jpg"
+  },
+  "18-maxit": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 0.4,
+    "image": "assets/projects/18-maxit.jpg"
+  },
+  "19-ordination-strasshof": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 1.8,
+    "image": "assets/projects/19-ordination-strasshof.jpg"
+  },
+  "20-taubenschuss": {
+    "category": "wine",
+    "label": "Genuss",
+    "offset": 1.4,
+    "image": "assets/projects/20-taubenschuss.jpg"
+  },
+  "21-tmbp": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 1.4,
+    "image": "assets/projects/21-tmbp.jpg"
+  },
+  "22-verein-schule-kultur": {
+    "category": "education",
+    "label": "Bildung & Kultur",
+    "offset": 0.5,
+    "image": "assets/projects/22-verein-schule-kultur.jpg"
+  },
+  "23-vienna-awards": {
+    "category": "fashion",
+    "label": "Besondere Momente",
+    "offset": 0,
+    "image": "assets/projects/23-vienna-awards.jpg"
+  },
+  "24-art-aesthetic-institute": {
+    "category": "beauty",
+    "label": "Schöne Momente",
+    "offset": 1.8
+  },
+  "25-aop": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 0.2
+  },
+  "26-awa": {
+    "category": "fashion",
+    "label": "Besondere Momente",
+    "offset": 1
+  },
+  "27-babor": {
+    "category": "beauty",
+    "label": "Für die Sinne",
+    "offset": 0
+  },
+  "28-bettina-bogner": {
+    "category": "business",
+    "label": "Begegnungen",
+    "offset": 2.5
+  },
+  "29-b-dna": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 0
+  },
+  "30-bundy-bundy": {
+    "category": "beauty",
+    "label": "Schöne Momente",
+    "offset": 2.4
+  },
+  "31-bs-partner": {
+    "category": "business",
+    "label": "Begegnungen",
+    "offset": 1.8
+  },
+  "32-dr-schreibers": {
+    "category": "education",
+    "label": "Bildung & Wissen",
+    "offset": 1.6
+  },
+  "33-fh-technikum-wien": {
+    "category": "education",
+    "label": "Neue Perspektiven",
+    "offset": 2.5
+  },
+  "34-food4skin": {
+    "category": "beauty",
+    "label": "Wohlbefinden",
+    "offset": 0.7
+  },
+  "35-hh": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 0.9
+  },
+  "36-iconic": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 2.2
+  },
+  "37-invisio": {
+    "category": "business",
+    "label": "Begegnungen",
+    "offset": 0.3
+  },
+  "38-dr-kathrin-faerber": {
+    "category": "beauty",
+    "label": "Schöne Momente",
+    "offset": 1.5
+  },
+  "39-locci": {
+    "category": "business",
+    "label": "Neue Perspektiven",
+    "offset": 1.3
+  },
+  "40-mylan": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 2.5
+  },
+  "41-petite-marie-vienna": {
+    "category": "fashion",
+    "label": "Besondere Momente",
+    "offset": 2
+  },
+  "42-riedel": {
+    "category": "wine",
+    "label": "Genuss",
+    "offset": 2.5
+  },
+  "43-sakh": {
+    "category": "health",
+    "label": "Gesundheit",
+    "offset": 1.1
+  },
+  "44-salon-wunderbar": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 2.4
+  },
+  "45-sanova": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 0.4
+  },
+  "46-terraalp": {
+    "category": "nature",
+    "label": "Neue Perspektiven",
+    "offset": 0.8
+  },
+  "47-loan-tran": {
+    "category": "business",
+    "label": "Kreativität",
+    "offset": 1.7
+  },
+  "48-sonja-kufner": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 2
+  },
+  "49-tricky-mind": {
+    "category": "education",
+    "label": "Neue Perspektiven",
+    "offset": 0.9
+  },
+  "50-lions-youth": {
+    "category": "education",
+    "label": "Begegnungen",
+    "offset": 1.9
+  },
+  "51-vital-fabrik": {
+    "category": "health",
+    "label": "Wohlbefinden",
+    "offset": 1.4
+  },
+  "36b-immo-apulien": {
+    "category": "architecture",
+    "label": "Immobilien",
+    "offset": 0
+  }
 }
